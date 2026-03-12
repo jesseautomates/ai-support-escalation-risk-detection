@@ -133,7 +133,7 @@ Potential next steps for this workflow:
 
 ## About This Portfolio Series
 
-Previous project: [AI Support Ticket Triage]((https://github.com/jesseautomates/ai-support-ticket-triage-automation))
+Previous project: [AI Support Ticket Triage] ((https://github.com/jesseautomates/ai-support-ticket-triage-automation))
 
 This project is part of a broader set of support operations automation workflows focused on practical AI use cases in support environments.
 

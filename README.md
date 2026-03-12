@@ -24,7 +24,11 @@ This workflow adds a second decision layer so support teams can identify and act
 
 ## n8n Workflow
 
-![Workflow Overview](screenshots/Screenshot_of_n8n_flow.png)
+![Workflow Overview](screenshots/n8n-workflow.png)
+
+## Example Escalation Alert
+
+![Escalation Alert](screenshots/escalation-alert-example.png)
 
 ## What This Workflow Does
 

@@ -24,7 +24,7 @@ This workflow adds a second decision layer so support teams can identify and act
 
 ## n8n Workflow
 
-![Workflow Overview](screenshots/workflow-overview.png)
+![Workflow Overview](screenshots/Screenshotofn8nflow.png)
 
 ## What This Workflow Does
 

@@ -139,10 +139,11 @@ Potential next steps for this workflow:
 
 ## Files Included
 
-- `workflow.json` — exported n8n workflow
-- `screenshots/workflow-overview.png` — workflow architecture screenshot
+- `n8n-workflow.json` — exported n8n workflow
+- `screenshots/architecture-diagram.png` — workflow architecture screenshot
 - `screenshots/escalation-alert-example.png` — sample escalation output
 - `sample-data/tickets_sample.csv` — sample dataset used in the workflow (subset of the original dataset used in Project 1)
+- `screenshots/n8n-workflow.png` - non-technical flow
 
 ## About This Portfolio Series
 

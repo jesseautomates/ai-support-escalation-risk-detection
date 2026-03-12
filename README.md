@@ -142,12 +142,11 @@ Potential next steps for this workflow:
 - `workflow.json` — exported n8n workflow
 - `screenshots/workflow-overview.png` — workflow architecture screenshot
 - `screenshots/escalation-alert-example.png` — sample escalation output
+- `sample-data/tickets_sample.csv` — sample dataset used in the workflow (subset of the original dataset used in Project 1)
 
 ## About This Portfolio Series
 
-Previous project: [AI Support Ticket Triage] ((https://github.com/jesseautomates/ai-support-ticket-triage-automation))
+This project is part of a series exploring practical AI automation use cases in support operations.
 
-This project is part of a broader set of support operations automation workflows focused on practical AI use cases in support environments.
-
-Previous project:
-**AI Support Ticket Triage**
+**Project 1:**  
+[AI Support Ticket Triage](https://github.com/jesseautomates/ai-support-ticket-triage-automation)

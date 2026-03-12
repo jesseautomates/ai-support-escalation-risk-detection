@@ -18,6 +18,14 @@ A ticket may look like a standard login, billing, or technical issue on the surf
 
 This workflow adds a second decision layer so support teams can identify and act on risky tickets earlier.
 
+## Workflow Architecture
+
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
+## n8n Workflow
+
+![Workflow Overview](screenshots/workflow-overview.png)
+
 ## What This Workflow Does
 
 The automation:
